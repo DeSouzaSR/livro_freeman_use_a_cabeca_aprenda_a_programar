@@ -1,0 +1,1 @@
+This program takes a dog's name and weight and returns the type of bark.
