@@ -1,0 +1,1 @@
+This didactic project, which aims to serve as my repository for the exercises proposed in [Eric Freeman's book - Head First Python](https://www.oreilly.com/library/view/head-first-python/9781449397524/).
